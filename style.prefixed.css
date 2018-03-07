@@ -1,0 +1,18 @@
+footer {
+
+    background-color: yellow;
+    color: green;
+    height: 200px;
+    font-size: 60px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    
+    
+
+}
+
+.text {
+    color: blue;
+}

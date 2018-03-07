@@ -4,6 +4,9 @@ footer {
     color: green;
     height: 200px;
     font-size: 60px;
+    display: flex;
+    justify-content: space-around;
+    
     
 
 }
