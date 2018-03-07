@@ -1,5 +1,13 @@
 footer {
 
-    background-color: red;
+    background-color: yellow;
+    color: green;
+    height: 200px;
+    font-size: 60px;
+    
 
+}
+
+.text {
+    color: blue;
 }
